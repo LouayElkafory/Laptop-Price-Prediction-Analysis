@@ -1,7 +1,7 @@
 # Laptop Price Predicting ML Model 💻📈
 
 ## 📝 Overview
-This project provides a comprehensive  Analysis machine learning solution for predicting laptop prices based on technical specifications. By leveraging a rich dataset and state-of-the-art regression algorithms, the model quantifies how hardware variations like CPU frequency, RAM capacity, and storage technology affect market value.
+A comprehensive machine learning solution for predicting laptop prices based on technical specifications. This project demonstrates end-to-end data science workflow including data preprocessing, feature engineering, exploratory data analysis, model training, and hyperparameter tuning. The final model achieves accurate price predictions with an error margin of just ~6.5% on test data.
 
 ## 🎯 Problem Statement
 The laptop market is highly fragmented, with prices varying significantly based on small hardware deviations. Consumers and retailers often lack a data-driven way to determine if a laptop is fairly priced. This project solves this by:
@@ -16,11 +16,19 @@ The laptop market is highly fragmented, with prices varying significantly based 
 - **Row Count**: 1,303 entries.
 
 ## 🛠️ Technologies Used
-- **Language**: Python 🐍
-- **Analysis**: Pandas, NumPy
-- **Visuals**: Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Scikit-Learn, XGBoost, GradientBoosting
-- **API**: Kaggle API for data automation
+- Python 3.8+: Core programming language
+
+Pandas & NumPy: Data manipulation and numerical operations
+
+Matplotlib & Seaborn: Static visualizations
+
+Plotly: Interactive visualizations
+
+Scikit-learn: Machine learning pipelines and models
+
+XGBoost: Gradient boosting framework
+
+SciPy: Statistical operations
 
 ## 🖼️ Visual Insights
 Understanding the data through visualization was a key part of the project.
