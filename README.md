@@ -76,6 +76,6 @@ The following plot shows the strong alignment between our model's predictions an
 
 ## 👨‍💻 Author
 **Laptop Project Team**  
-Louay Mohammed 
-Amr Khaled
+Louay Mohammed ,
+Amr Khaled,
 Mahmoud Salah
